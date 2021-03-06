@@ -1,0 +1,12 @@
+create client and server
+1. Client
+- cd client. npx create-react-app ./   /*install react, react-dom, react-scripts...*/
+- npm install axios moment react-file-base redux redux-thunk
+
+2. Server
+- cd server. Create file  index.js
+- npm init -y
+- npm install body-parser cors express mongoose nodemon /*install body-parser, cors, express, mongoose, nodemon...*/
+
+
+ip access mongodb 42.113.143.212
