@@ -2,7 +2,8 @@ create client and server
 1. Client
 - cd client. npx create-react-app ./   /*install react, react-dom, react-scripts...*/
 - npm install axios moment react-file-base redux redux-thunk
-
+- npm install react-router-dom
+- npm install @material-ui/icons
 2. Server
 - cd server. Create file  index.js
 - npm init -y
